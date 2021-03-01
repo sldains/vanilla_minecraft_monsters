@@ -9,7 +9,7 @@ The "no_phantom_data" file is if you want to remove the original Origins Phantom
 # Undead Trio v1.3
 All of the undead are immune to hunger, don’t need to breathe, and burn in daylight (a netherite helmet can protect them or invisibility). Healing potions hurt and harm heals them.
 
-## Drowner
+## Drowned
 Impact ooo
 
 Important features:
@@ -30,6 +30,8 @@ Important features:
 - Can’t wear heavy armor
 - Can turn invisible for a short amount of time
 - Can only eat raw food
+- Other phantoms are your friends
+- You fear cats
 
 ## Skeleton
 Impact ooo
@@ -55,3 +57,4 @@ Important features:
 - Weaker hits
 - Might make a new slime when hit
 - Can carve slime balls off yourself
+- Other slimes are your friends
