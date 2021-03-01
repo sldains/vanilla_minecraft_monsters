@@ -34,7 +34,7 @@ Important features:
 ## Skeleton
 Impact ooo
 
-Imoprtant features:
+Important features:
 - Powerful archer who can summon a small number of arrows for free
 - Can make cheap and powerful bows (they don’t last long)
 - Ineffectual with swords and can’t use shields
