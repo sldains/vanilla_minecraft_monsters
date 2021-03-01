@@ -27,7 +27,7 @@ Impact ooo
 Important features:
 - Elytra flight and endless sprint boost
 - Permanent slowfall
-- Weak and slow on when not flying
+- Weak and slow when not flying
 - Can’t wear heavy armor
 - Can turn invisible for a short amount of time
 - Can only eat raw food
