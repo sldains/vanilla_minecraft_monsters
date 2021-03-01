@@ -19,6 +19,7 @@ Important features:
 - Being wet enough makes you immune to sun damage but also slow
 - Can’t use bows or shields
 - Can only eat raw food
+- Spawn in a shipwreck
 
 ## Phantom
 Impact ooo
@@ -43,6 +44,7 @@ Important features:
 - Use milk as a healing item
 - Add bones to your bones as a sort of armor
 - Can’t eat anything but has a chance to life steal on a hit
+- Spawn in a mineshaft
 
 # Other v0.9
 ## Slime
