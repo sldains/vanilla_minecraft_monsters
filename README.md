@@ -4,6 +4,8 @@ A Collection of Vanilla Minecraft Monsters, a datapack for the Minecraft mod Ori
 My take on this pack was to make origins that both feel like the actual monsters in powers and promote playstyles similar to how those monsters fight. 
 I tried to balance fun and interesting challenges with difficulty. 
 
+The "no_phantoms_data" file is if you want to remove the original Origins Phantom.
+
 # Undead Trio v1.3
 All of the undead are immune to hunger, don’t need to breathe, and burn in daylight (a netherite helmet can protect them or invisibility). Healing potions hurt and harm heals them.
 
